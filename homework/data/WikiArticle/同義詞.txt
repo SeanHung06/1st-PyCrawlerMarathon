@@ -1,0 +1,6 @@
+[<p><b>同義詞</b>（<span lang="en">synonym</span>）或者更學術性的稱呼<b>同義異形</b>是世界上各種<a class="mw-redirect" href="/wiki/%E8%AF%AD%E8%A8%80" title="語言">語言</a>都存在的一種現象。它指的是表達的意義相同或相近，但是表達形式不同的<a href="/wiki/%E8%AF%8D%E6%B1%87" title="詞彙">詞彙</a>。例如<a class="mw-redirect" href="/wiki/%E5%8E%95%E6%89%80" title="廁所">廁所</a>和「茅房」就是不同詞彙表示同一種東西。
+</p>, <p>不僅詞彙有同義現象，不同語法結構的句子也可以表示同一個意義。例如：
+</p>, <p>同義詞之間的差別主要有感情色彩、理性意義、語法特點、各地習慣的不同。理性意義的差別又分別體現為範圍、性狀、程度等方面的不同。
+</p>, <p>Tools which graph words relations :
+</p>, <p>Plain words synonyms finder :
+</p>]

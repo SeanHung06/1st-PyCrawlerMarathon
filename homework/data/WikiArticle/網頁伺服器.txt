@@ -1,0 +1,12 @@
+[<p><br/>
+</p>, <p><b>網頁伺服器</b>（英語：<span lang="en">Web server</span>）一詞有兩個意思：
+</p>, <p>每一台網頁伺服器（第1個意思）會執行最少一個網頁伺服器程式（第2個意思）。作為第1個意思，大陸地區稱為網站伺服器。此外，也通稱作<b>Web伺服器</b>。
+</p>, <p>現在市面上普遍的<a href="/wiki/%E8%B6%85%E6%96%87%E6%9C%AC%E4%BC%A0%E8%BE%93%E5%8D%8F%E8%AE%AE" title="超文字傳輸協定">超文字傳輸協定</a>伺服器有：
+</p>, <p>雖然每個網頁伺服器程式有很多不同，但有一些共同的特點：每一個網頁伺服器程式都需要從網路接受<a class="mw-redirect" href="/wiki/HTTP" title="HTTP">HTTP</a>請求，然後提供HTTP回覆給請求者。HTTP回覆一般包含一個<a href="/wiki/HTML" title="HTML">HTML</a>檔案，有時也可以包含純文字檔案、圖像或其他類型的檔案。
+</p>, <p>一般來說這些檔案都儲存在網頁伺服器的本地檔案系統裡，而<a class="mw-redirect" href="/wiki/URL" title="URL">URL</a>和本地檔名都有一個階級組織結構的，伺服器會簡單的把URL對照到本地檔案系統中。當正確安裝和設定好網頁伺服器軟體，伺服器管理員會從伺服器軟體放置檔案的地方指定一個本地路徑名為根目錄。
+</p>, <p>例如，在「example.funnycorp.com」伺服器上設定了伺服器軟體，並把伺服器軟體的根目錄設定為「/home/public/web/」，當一個瀏覽者輸入<a class="mw-redirect" href="/wiki/URL" title="URL">URL</a> 「http://example.funnycorp.com/lips/raspberry.html」，「example.funnycorp.com」上的伺服器軟體就會讀取「/home/public/web/lips/raspberry.html」這個檔案。
+</p>, <p>以下是由W3Techs提供最新的網頁伺服器在網路上的市場佔有率統計資料：<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup>
+</p>, <p>只有不到1%的網站使用其它網頁伺服器。
+</p>, <p>以下是由<span class="ilh-all" data-foreign-title="Netcraft" data-lang-code="en" data-lang-name="英語" data-orig-title="Netcraft"><span class="ilh-page"><a class="new" href="/w/index.php?title=Netcraft&amp;action=edit&amp;redlink=1" title="Netcraft（頁面不存在）">Netcraft公司</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英語</span><span class="ilh-colon">：</span><span class="ilh-link"><a class="extiw" href="https://en.wikipedia.org/wiki/Netcraft" title="en:Netcraft"><span dir="auto" lang="en">Netcraft</span></a></span>）</span></span>提供的網頁伺服器市場佔有率統計資料：<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup>
+</p>, <p><a class="mw-redirect" href="/wiki/Apache" title="Apache">Apache</a>、<a class="mw-redirect" href="/wiki/IIS" title="IIS">IIS</a>和<a href="/wiki/Nginx" title="Nginx">Nginx</a>的是網際網路上最常用的Web伺服器。
+</p>]
