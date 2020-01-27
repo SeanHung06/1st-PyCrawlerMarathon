@@ -1,0 +1,18 @@
+[<p>維基百科<a href="/wiki/Wikipedia:%E4%BB%80%E4%B9%88%E6%98%AF%E6%9D%A1%E7%9B%AE" title="Wikipedia:什麼是條目">條目</a>內容須能由<a class="mw-redirect" href="/wiki/Wikipedia:%E5%8F%AF%E9%9D%A0%E4%BE%86%E6%BA%90" title="Wikipedia:可靠來源">可靠來源</a>驗證，而內容添加者有列明來源的義務。編者最好以<a class="mw-redirect" href="/wiki/Wikipedia:IC" title="Wikipedia:IC">內文參照</a>方式列出來源，即在內容後面加入<a class="mw-redirect" href="/wiki/Help:FN" title="Help:FN">註腳</a>（使用<code style="white-space:nowrap;">&lt;ref&gt;...&lt;/ref&gt;</code>）。條目的底部會出現順序排列的參考參照列表，這樣便於讀者了解更多的該條目的資訊，並能夠自行驗證和判斷條目內容的真確性。
+</p>, <p>凡是參照前人（包括作者自己過去）已發表的文獻中的觀點、資料和材料等，我們建議都要對它們在文中出現的地方予以標明，並在文末列出參考文獻表。
+</p>, <p>維基百科所有的內容都應該<a href="/wiki/Wikipedia:%E5%8F%AF%E4%BE%9B%E6%9F%A5%E8%AD%89" title="Wikipedia:可供查證">可供查證</a>。如果您對文章準確性有質疑，歡迎您直接進行修改，或在文章頂端加上<b>{{<a class="mw-redirect" href="/wiki/Template:%E6%94%B9%E5%96%84%E6%9D%A5%E6%BA%90" title="Template:改善來源">改善來源</a>}}</b>模板。
+</p>, <p>請參看<a class="extiw" href="https://www.mediawiki.org/wiki/Extension:Cite/Cite.php" title="mw:Extension:Cite/Cite.php">Extension:Cite/Cite.php</a>使用參照語法。
+</p>, <p>可以使用<a class="extiw" href="https://tools.wmflabs.org/makeref" title="toollabs:makeref">這個工具</a>來生成參考文獻的格式。
+</p>, <p>註：請留意，各種語言版本的維基百科不能直接參照無來源出處的內容，當翻譯其他維基百科的條目時，請留意他們所參照的原始出處的可靠性。
+</p>, <p>清楚來源標示的格式建議採用註腳的方式呈現，為標明資料來源、文章補充註解的一種方法。一般註腳會在文章內以符號或數字標示，然後在文章末端，列出所有的補充、資料來源的詳情。讓編者補充細節之餘，也不影響行文的聚焦，讓版面顯得更整齊。
+</p>, <p>為了便於讀者閱讀，下面給出了在維基百科上使用參考文獻時所建議的格式：
+</p>, <p>在文末列出參考文獻，我們建議使用順序編號（用<b>#</b>）。
+</p>, <p>這裡建議的參考文獻格式，參考了中國的<b><a class="mw-redirect" href="/wiki/GB_7714#GB/T_7714-2005" title="GB 7714">GB 7714-2005《文後參考文獻著錄規則》</a></b>制定，這樣便於中文讀者的閱讀習慣。
+</p>, <p>注意：作者如果多於兩人，則只寫前兩位作者，後面加<b>等</b>字。如果是翻譯的文章，先寫國別，原作者；再寫譯者（xxx譯）。
+</p>, <p><b>另外請注意</b>：如果參考了非中文文獻，請不要把該參考文獻用中文列出，而是應該使用該文獻的原始語言。
+</p>, <p>注意：如果該篇文章有網路版，請在論文題目上加原文的連結。
+</p>, <p>注意：如果該篇文章有網路版，請在文章標題上加原文的連結。
+</p>, <p>列明維基條目中<b>非新聞來源的網頁</b>。描寫維基條目時經常需要參考網路上的各種資源，因此更多地使用這個模板可以將所參考的來源記錄下來，以便瀏覽者以及之後的編寫者找到這些來源資料。
+</p>, <p>注意：
+</p>, <p>為降低參照來源所費的心力，關於產生維基語法的工具有:
+</p>]
